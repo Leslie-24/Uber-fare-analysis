@@ -45,8 +45,7 @@ The dataset was cleaned and enhanced using **Python (Jupyter Notebook)**, and an
 ![Box Plot](https://github.com/leslie_24/uber-fare-analysis/blob/main/boxplot.png?raw=true)
 
 ### Final Dashboard
-![Final Dashboard](https://github.com/leslie_24/uber-fare-analysis/blob/main/final%20dashboard.png?raw=true)
-.
+![Final Dashboard](https://github.com/leslie_24/uber-fare-analysis/blob/main/final%20dashboard.png?raw=true).
 
 ---
 ##  Insights & Results
