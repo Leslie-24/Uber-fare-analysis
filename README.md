@@ -26,45 +26,43 @@ The dataset was cleaned and enhanced using **Python (Jupyter Notebook)**, and an
 
 ---
 
-##  Dashboard Features
-- **KPI Cards**: Total Rides, Total Fare Collected, Average Fare.
-- **Fare Distribution**: Histogram and box plot of fare amounts.
-- **Time-Based Trends**:  
-  - Ride frequency and average fare by **hour**, **day of the week**, and **month**.
-- **Fare vs Distance**: Scatter plot showing fare-distance correlation.
-- **Interactive Slicers**: Month, Day, and Hour filters for exploring patterns.
+## 📊 Key Visuals & Screenshots
+
+### Data Preparation
+![Data Cleaning](https://github.com/leslie_24/uber-fare-analysis/blob/main/cleaning.png?raw=true)
+![Feature Engineering](https://github.com/leslie_24/uber-fare-analysis/blob/main/features.png?raw=true)
+![Describe Data](https://github.com/leslie_24/uber-fare-analysis/blob/main/describe.png?raw=true)
+
+### Data Import
+![Data Import](https://github.com/leslie_24/uber-fare-analysis/blob/main/data%20import.png?raw=true)
+
+### Visual Analysis
+![Fare Count by Hour](https://github.com/leslie_24/uber-fare-analysis/blob/main/count%20fare%20by%20hour.png?raw=true)
+![Fare Count by Month](https://github.com/leslie_24/uber-fare-analysis/blob/main/count%20fare%20by%20month.png?raw=true)
+![Fare Count by Weekday](https://github.com/leslie_24/uber-fare-analysis/blob/main/count%20fare%20by%20weekday.png?raw=true)
+![Fare Bins by Hour](https://github.com/leslie_24/uber-fare-analysis/blob/main/fare%20bins%20by%20hour.png?raw=true)
+![Scatter Plot](https://github.com/leslie_24/uber-fare-analysis/blob/main/scatter%20chart.png?raw=true)
+![Box Plot](https://github.com/leslie_24/uber-fare-analysis/blob/main/boxplot.png?raw=true)
+
+### Final Dashboard
+![Final Dashboard](https://github.com/leslie_24/uber-fare-analysis/blob/main/final%20dashboard.png?raw=true)
+.
 
 ---
+##  Insights & Results
 
-##  Insights and Results
-The analysis of Uber fares shows that **most rides fall within the 5–15 fare units range**, with outliers above 50.  
-The fare distribution is **right-skewed**, with a median fare around **8–10 units**.  
-
-- **Peak Hours:** 6–9 AM and 4–7 PM (commute times).  
-- **Weekend Trends:** Higher ride activity and fares on **Fridays and Saturdays**.  
-- **Distance vs Fare:** A strong positive correlation exists, with **longer trips incurring higher but variable fares**.  
+The analysis shows that **most fares fall between 5–15 units**, with outliers above 50.  
+Ride demand peaks during **6–9 AM** and **4–7 PM**, especially on **Fridays and Saturdays**.  
+The **fare vs distance scatter plot** confirms a positive correlation, with longer trips showing greater fare variability.  
+Average fares increase late at night, likely due to longer rides or surge pricing.
 
 ---
 
 ##  Recommendations
-- **Dynamic Pricing:** Apply surge pricing during peak hours and weekends.
-- **Off-Peak Promotions:** Offer discounts to increase demand during off-peak times.
-- **Data Validation:** Monitor outliers (> 50 units) to ensure quality and accuracy
-
----
-
-##  Screenshots
-The screenshots contain:
-- Data loading and cleaning proof.
-- ![](.cleaning.png)
-- Key Power BI visuals (histogram, time trends, scatter plot).
-- ![](.scatter%20chart.png)
-- ![](.count%20fare%20by%20month.png)
-- ![](.count%20fare%20by%20weekday.png)
-- ![](.count%20fare%20by%20hour.png)
-- ![](.count%20fare%20bin%20by%20hour.png)
-- Final dashboard layout.
-  ![](.final%20dashboard.png)
+- Apply **dynamic pricing** during peak hours and weekends.  
+- Offer **off-peak promotions** to encourage rides at low-demand times.  
+- Validate **outlier fares (>50 units)** for accuracy.  
+- Incorporate **weather or event data** for richer analysis.
 
 ---
 
