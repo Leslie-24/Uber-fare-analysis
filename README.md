@@ -56,9 +56,15 @@ The fare distribution is **right-skewed**, with a median fare around **8–10 un
 ##  Screenshots
 The screenshots contain:
 - Data loading and cleaning proof.
+- ![](.cleaning.png)
 - Key Power BI visuals (histogram, time trends, scatter plot).
+- ![](.scatter%20chart.png)
+- ![](.count%20fare%20by%20month.png)
+- ![](.count%20fare%20by%20weekday.png)
+- ![](.count%20fare%20by%20hour.png)
+- ![](.count%20fare%20bin%20by%20hour.png)
 - Final dashboard layout.
-
+  ![](.final%20dashboard.png)
 
 ---
 
