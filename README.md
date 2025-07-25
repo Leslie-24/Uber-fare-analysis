@@ -26,22 +26,23 @@ The dataset was cleaned and enhanced using **Python (Jupyter Notebook)**, and an
 
 ---
 
-## 📊 Key Visuals & Screenshots
+##  Key Visuals & Screenshots
 
 ### Data Preparation
 ![Cleaning](./cleaning.png)
 ![Feature Engineering](./features.png)
 
 ### Data Import
-![Data Import](./import%20data.png)
+![Data Import](./data%20import.png)
 
 ### Visual Analysis
-![Fare Count by Hour](./fare%20count%20by%20hour%20line.png)
-![Fare Count by Month](./fare%20count%20by%20month.png)
-![Fare Count by Weekday](./fare%20count%20by%20weekday.png)
+![Avg Fare by Hour](./count%20fare%20by%20hour.png)
+![Fare Count by Hour](./count%20fare%20by%20hour.png)
+![Fare Count by Month](./count%20fare%20by%20month.png)
+![Fare Count by Weekday](./count%20fare%20by%20weekday.png)
 ![Fare Bins by Hour](./fare%20bins%20by%20hour.png)
 ![Scatter chart](./scatter%20chart.png)
-![Box Plot](./box%20plot.png)
+![Box Plot](./boxplot.png)
 
 ### Final Dashboard
 ![Final Dashboard](./final%20dashboard.png).
