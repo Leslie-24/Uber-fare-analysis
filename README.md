@@ -2,7 +2,7 @@
 
 ###  Course: INSY 8413 – Introduction to Big Data Analytics  
 ###  Instructor: Prof. Eric Maniraguha  
-###  Student: Akariza GASANA Leslie 
+###  Student: Akariza GASANA Leslie (27413)
 ###  Date: 23 July 2025
 
 ---
@@ -29,23 +29,22 @@ The dataset was cleaned and enhanced using **Python (Jupyter Notebook)**, and an
 ## 📊 Key Visuals & Screenshots
 
 ### Data Preparation
-![Data Cleaning](https://github.com/leslie_24/uber-fare-analysis/blob/main/cleaning.png?raw=true)
-![Feature Engineering](https://github.com/leslie_24/uber-fare-analysis/blob/main/features.png?raw=true)
-![Describe Data](https://github.com/leslie_24/uber-fare-analysis/blob/main/describe.png?raw=true)
+![Cleaning](./cleaning.png)
+![Feature Engineering](./features.png)
 
 ### Data Import
-![Data Import](https://github.com/leslie_24/uber-fare-analysis/blob/main/data%20import.png?raw=true)
+![Data Import](./import%20data.png)
 
 ### Visual Analysis
-![Fare Count by Hour](https://github.com/leslie_24/uber-fare-analysis/blob/main/count%20fare%20by%20hour.png?raw=true)
-![Fare Count by Month](https://github.com/leslie_24/uber-fare-analysis/blob/main/count%20fare%20by%20month.png?raw=true)
-![Fare Count by Weekday](https://github.com/leslie_24/uber-fare-analysis/blob/main/count%20fare%20by%20weekday.png?raw=true)
-![Fare Bins by Hour](https://github.com/leslie_24/uber-fare-analysis/blob/main/fare%20bins%20by%20hour.png?raw=true)
-![Scatter Plot](https://github.com/leslie_24/uber-fare-analysis/blob/main/scatter%20chart.png?raw=true)
-![Box Plot](https://github.com/leslie_24/uber-fare-analysis/blob/main/boxplot.png?raw=true)
+![Fare Count by Hour](./fare%20count%20by%20hour%20line.png)
+![Fare Count by Month](./fare%20count%20by%20month.png)
+![Fare Count by Weekday](./fare%20count%20by%20weekday.png)
+![Fare Bins by Hour](./fare%20bins%20by%20hour.png)
+![Scatter chart](./scatter%20chart.png)
+![Box Plot](./box%20plot.png)
 
 ### Final Dashboard
-![Final Dashboard](https://github.com/leslie_24/uber-fare-analysis/blob/main/final%20dashboard.png?raw=true).
+![Final Dashboard](./final%20dashboard.png).
 
 ---
 ##  Insights & Results
