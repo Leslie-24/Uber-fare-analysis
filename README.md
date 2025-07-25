@@ -36,7 +36,7 @@ The dataset was cleaned and enhanced using **Python (Jupyter Notebook)**, and an
 ![Data Import](./data%20import.png)
 
 ### Visual Analysis
-![Avg Fare by Hour](./count%20fare%20by%20hour.png)
+![Avg Fare by Hour](./Avg%20fare%20by%20hour%20line.png)
 ![Fare Count by Hour](./count%20fare%20by%20hour.png)
 ![Fare Count by Month](./count%20fare%20by%20month.png)
 ![Fare Count by Weekday](./count%20fare%20by%20weekday.png)
