@@ -4,7 +4,6 @@
 ###  Instructor: Prof. Eric Maniraguha  
 ###  Student: Akariza GASANA Leslie (27413)
 ###  Date: 23 July 2025
-
 ---
 
 ##  Project Overview
