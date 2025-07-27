@@ -49,18 +49,18 @@ The dataset was cleaned and enhanced using **Python (Jupyter Notebook)**, and an
 ---
 ##  Insights & Results
 
-The analysis shows that **most fares fall between 5–15 units**, with outliers above 50.  
-Ride demand peaks during **6–9 AM** and **4–7 PM**, especially on **Fridays and Saturdays**.  
-The **fare vs distance scatter plot** confirms a positive correlation, with longer trips showing greater fare variability.  
-Average fares increase late at night, likely due to longer rides or surge pricing.
+The analysis of Uber fares shows that most rides are within the $5–$15 range, with outliers above $50. The fare distribution is right-skewed with a median fare around $8–$10. Ride demand peaks during the morning (6–9 AM) and evening (4–7 PM) commuting hours, as well as on weekends, particularly Fridays and Saturdays. Average fares rise late at night, likely due to longer rides or surge pricing. Monthly patterns indicate that May  has the highest ride volume, suggesting seasonal demand variations. The fare vs. distance scatter plot confirms a strong positive correlation, where longer trips naturally lead to higher fares, though fare variability increases with distance. Based on these insights, it is recommended to implement dynamic pricing during peak periods, offer targeted promotions during off-peak hours, and validate any outlier fares above $50 to ensure data accuracy.
+
+
 
 ---
 
 ##  Recommendations
-- Apply **dynamic pricing** during peak hours and weekends.  
-- Offer **off-peak promotions** to encourage rides at low-demand times.  
-- Validate **outlier fares (>50 units)** for accuracy.  
-- Incorporate **weather or event data** for richer analysis.
+1. Implement surge pricing during peak hours (6–9 AM, 4–7 PM) and weekends.
+2. Provide discounts or loyalty rewards during off-peak periods to balance demand.
+3. Monitor outlier fares and anomalies to ensure data quality.
+4. Explore adding weather and seasonal event data for deeper insights.
+
 
 ---
 
